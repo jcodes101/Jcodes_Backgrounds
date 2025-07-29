@@ -2,6 +2,7 @@
 
 A sleek collection of animated React background components powered by **Tailwind CSS 4.1**. Perfect for enhancing landing pages, hero sections, and full-screen visual effects.
 
+## Check it out here: https://jcodesbackgrounds.vercel.app/
 ---
 
 ## ✨ Features
